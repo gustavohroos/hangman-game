@@ -11,3 +11,5 @@ github
 datascience
 machinelearning
 brazil
+windows
+macbook
